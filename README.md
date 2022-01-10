@@ -3,7 +3,7 @@ This repository is created to be an anonymous source for the submission of our w
 Please note that we created a repository with this name before the submission (with the intention to add the anonymized code by the end of October 2022). However, while pushing the code, we made a mistake which could have led to break the anonymity. So, we removed that repository and created another one from scratch on Oct. 28, 2021.
 
 ## Poison Samples
-Unzip `samples.zip`.
+Unzip [samples.zip](https://drive.google.com/file/d/1DSzzPXo5tn3mSCozxF-zRlpzC0ZfWgj_/view?usp=sharing).
 In the folder `samples/poisons`, you can find 20 randomly selected poison samples for 12 succesfull attacks. We provided poison samples for both when the psychoacoustic modeling is disabled as well as when a margin of 30dB is used.
 In the foler `samples/clean`, you can find the original (i.e., clean) poison samples that are in the `samples/poisons` folder.
 
